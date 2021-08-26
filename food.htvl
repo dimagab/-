@@ -1,0 +1,26 @@
+<html> 
+    <head> 
+        <title> МАГАЗИН СЧАВСТЬЯ </title>
+    </head>
+<body>
+    <header> 
+        <h1> СЧАСТЛИВЫЙ ОВОЩЬ </h1>
+        <h2>  МЫ РАБОТАЕМ УЖЕ 45 МИНУТ 
+        НО У НАС ЕСТЬ САМЫЕ ЛУДШИЕ ФРУКТЫ И ОВОШИ  </h2>
+        <h2>КИВИ </h2>
+        <img src="https://images11.bazaar.ru/upload/img_cache/444/44424583247aaf3dfa0a690932afa6bf_cropped_666x444.webp" width="100PX"height="70PX">
+  <header/>
+  <table style="border:1px soild blue " >
+     <tr stile="border:2px solid biue; backgrund-color:palegreen"> 
+         <td> овощь  </td>
+         <td> цена </td>
+     </tr>
+     <tr stile="border:2px solid biue; backgrund-color:palegreen" >
+         <td> киви </td>
+         <td> 100 </td>
+   </table>
+<main>  </main>
+<footer> </footer>
+</body>
+
+</html> 
